@@ -9,10 +9,6 @@ ReadingTime: false
 type: campfire
 ---
 
-## Welcome friend
-
-Living through the individualist isolation, brutal unfairness, and impending ecological collapse of late-stage capitalism is exhausting. Join us around the Panga Campfire to reclaim time to rest, recharge, and indulge in cozy hopepunk conversations about building better futures by collectivising our basic needs.
-
 ## Why a Campfire?
 
 Lessons emerging from existing collectivist experiments have highlighted the value of cultivating decentralised networks that are large enough to support multiple smaller self-governing groups while still small enough that everyone is connected to everyone else, either directly or via someone they trust.
