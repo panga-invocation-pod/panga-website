@@ -53,6 +53,25 @@
         padding: 0 30px;
         margin: 0 auto;
       }
+
+      #campfire-row .campfire-content h2 {
+        margin-top: 0;
+      }
+
+      #campfire-row .campfire-content p {
+        margin-top: 1.5em;
+        margin-bottom: 0;
+        line-height: 160%;
+        color: #666;
+      }
+
+      #paige-metadata {
+        display: none;
+      }
+
+      #paige-toc {
+        display: none;
+      }
     </style>
 
     {{ partial "paige/body.html" $page }}
@@ -65,14 +84,11 @@
             <div class="campfire-content">
               <h2>Welcome friend</h2>
 
-              <p>We'd like invite you to chat around the digital campfire with us.</p>
-
-              <p>Living through the individualist isolation, brutal unfairness, and impending ecological collapse of late-stage capitalism is exhausting. Join us around the Panga Campfire to reclaim time to rest, recharge, and indulge in cozy hopepunk conversations about building better futures by collectivising our basic needs.</p>
+              <p>We would like to invite you to join us in reclaiming time to rest, recharge, and indulge in cozy hopepunk conversations about building better futures by collectivising our basic needs. </p>
             </div>
           </div>
           <div id="campfire-row">
             <div class="campfire-content">
-              {{ partial "paige/header.html" $page }}
 
               <main class="mt-3" id="paige-main">
                   {{ if templates.Exists "partials/paige/main-first.html" }}
