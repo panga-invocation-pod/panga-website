@@ -43,8 +43,6 @@
       #campfire-row {
         display: flex;
         flex-direction: row;
-        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(165, 25, 25, 0.5));
-
       }
 
       #campfire-row .campfire-content {
@@ -62,7 +60,15 @@
         margin-top: 1.5em;
         margin-bottom: 0;
         line-height: 160%;
-        color: #666;
+      }
+
+      #campfire-row.row-1 {
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(41, 6, 6, 1));
+      }
+
+      #campfire-row.row-2 {
+        background: linear-gradient(to bottom, rgba(41, 6, 6, 1), rgba(165, 25, 25, 1));
+        color: white;
       }
 
       #paige-metadata {
@@ -76,7 +82,6 @@
       .story-quote {
         font-family: "Times New Roman", Times, serif;
         line-height: 130%;
-        color: #666;
         max-width: 500px;
         margin: 0 auto 2em auto;
       }
@@ -101,7 +106,7 @@
               <p>We would like to invite you to join us in reclaiming time to rest, recharge, and indulge in cozy hopepunk conversations about building better futures by collectivising our basic needs. </p>
             </div>
           </div>
-          <div id="campfire-row">
+          <div id="campfire-row" class="row-1">
             <div class="campfire-content">
               <div class="story-quote">
                 <p>The robot took that in as it played with the fire. “When I first volunteered to make contact, we all thought this was a very good question. We wanted to know if you’d done all right in the time since robots left your society. We knew you’d improved, certainly. You were on the brink of collapse when we left, and obviously that hadn’t happened. Your villages have a glow at night—we can see them, if we’re in the Borderlands. And the satellites, of course. Those wouldn’t stay up without your help. We knew you were still here. We knew things were better. I never saw it for myself, but I know the previous generations watched the rivers clear up. They saw the trees grow back. My kind witnessed the world heal itself, but we didn’t know how well you had healed. Nobody was sure what I’d find out here, least of all me. So, you see, it was a very sensible introductory question. What is it that you need?”</p>
@@ -112,8 +117,10 @@
                   <p>— Becky Chambers, <a href="https://www.otherscribbles.com/a-prayer-for-the-crown-shy">A Prayer for the Crown Shy</a></p>
                 </div>
               </div>
-
-
+            </div>
+          </div>
+          <div id="campfire-row" class="row-2">
+            <div class="campfire-content">
               <main class="mt-3" id="paige-main">
                   {{ if templates.Exists "partials/paige/main-first.html" }}
                       {{ partial "paige/main-first.html" $page }}
