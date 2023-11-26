@@ -17,6 +17,6 @@ Complementing the continued flourishing of existing networks, Panga is a project
 
 Offering an asynchronous dose of hope, this Campfire is intended to help us recharge so that we can better sustain our efforts at engaging in our broader communities, weaving our networked connections, and experimenting with different forms of collectivist practices within small self-governing groups.
 
-Along the way, we hope that the conversations that emerge around this Campfire ca contribute to shaping the emerging direction of Panga - including the various ways we might experiment with how we support each other to meet our basic needs in ways that contribute to potential better futures for all.
+Along the way, we hope that the conversations that emerge around this Campfire can contribute to shaping the emerging direction of Panga - including the various ways we might experiment with how we support each other to meet our basic needs in ways that contribute to potential better futures for all.
 
 
