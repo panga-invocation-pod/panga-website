@@ -46,10 +46,21 @@
       }
 
       #campfire-row .campfire-content {
-        background-color: rgba(0, 0, 0, 0.5);
+        background-color: rgba(0, 0, 0, 0.2);
         max-width: 800px;
+        width: 100%;
         padding: 0 30px;
         margin: 0 auto;
+      }
+
+      @media only screen and (max-width: 800px) {
+        #campfire-hero-row .campfire-content {
+          background: none;
+        }
+
+        #campfire-row .campfire-content {
+          background: none;
+        }
       }
 
       #campfire-row .campfire-content h2 {
@@ -63,12 +74,12 @@
       }
 
       #campfire-row.row-1 {
-        background: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(41, 6, 6, 1));
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgb(53, 8, 8));
       }
 
       #campfire-row.row-2 {
-        background: linear-gradient(to bottom, rgba(41, 6, 6, 1), rgba(165, 25, 25, 1));
-        color: white;
+        background: linear-gradient(to bottom, rgb(53, 8, 8), rgb(138, 21, 21));
+        color: rgb(218, 229, 240);
       }
 
       #paige-metadata {
