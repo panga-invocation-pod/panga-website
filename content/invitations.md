@@ -8,7 +8,7 @@ draft: false
 
 As an open network, anyone in Panga can support new people to participate by following a transparent invitation process. 
 
-When you would like to invite additional people to join us in any of aspect of Panga we expect you to do so thoughtfully; when you have the capacity to support the newly joined participant in learning the shared context Panga cultivates and to take responsibility for co-creating this network of interdependent relationships through which we can experiments with multiple overlapping collectivists practices. 
+When you would like to invite additional people to join us in any of aspect of Panga we expect you to do so thoughtfully; when you have the capacity to support the newly joined participant in learning the [shared context](content/orientation.md) Panga cultivates and to take responsibility for co-creating this network of interdependent relationships through which we can experiments with multiple overlapping collectivists practices. 
 
 ## Invitation Principles
 
