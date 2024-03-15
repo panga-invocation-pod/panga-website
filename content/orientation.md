@@ -1,5 +1,5 @@
 ---
-title: "What is Panga?"
+title: "Participating in Panga"
 description: "Panga is a project to support experimental approaches to housing that collectively meet our daily needs of food, care, shelter, energy, transport, and safety."
 draft: false
 ---
