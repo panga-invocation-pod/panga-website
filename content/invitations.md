@@ -4,15 +4,15 @@ description: "Panga is a project to support experimental approaches to housing t
 draft: false
 ---
 
-# Inviting new people to participate in Panga 
+# Inviting new people to participate in various aspects of Panga 
 
-As an open network, anyone in Panga can support new people to participate by following a transparent invitation process. 
+Anyone involved Panga can support new people to participate with them by following a transparent invitation process. Collectivist experiments have highlighted the value of cultivating informal networks large enough to support multiple self-governing groups yet small enough that everyone is connected to everyone else, either directly or via someone they trust. Panga is intended to complement the continued flourishing of such networks, by focusing on supporting small self-governing groups to participate in multiple *place-based* experiments in collectively meeting our *basic needs*. 
 
-When you would like to invite additional people to join us in any of aspect of Panga we expect you to do so thoughtfully; when you have the capacity to support the newly joined participant in learning the [shared context](/orientation.md) Panga cultivates and to take responsibility for co-creating this network of interdependent relationships through which we can experiments with multiple overlapping collectivists practices. 
+When you would like to invite additional people to join us in any of aspect of Panga we expect you to do so thoughtfully; when you have the capacity to support the newly joined participant in learning the [shared context](/orientation.md) Panga cultivates and to take responsibility for co-creating the interdependent relationships through which we can experiments with multiple overlapping collectivists practices. 
 
 ## Invitation Principles
 
-The following are an initial set of Principles we hope will help guide us all in being thoughtful about when, how, and why we invite more people to participate in co-creating our network of collectivists experiments.
+The following are an initial set of Principles we hope will help guide us all in being thoughtful about when, how, and why we invite more people to participate in co-creating collectivists experiments.
   * Trust & Respect
   * Building on shared foundations
   * Interdependent responsibility
@@ -22,7 +22,7 @@ These Principles are intended to reflect our 'growth at the speed of trust' goal
 ## Invitation Preparation 
 
 To help in considering the relevance of these invitation principles in specific situations, please consider how you would explain to an existing participant why it is a good idea to invite this potential participant to join //now//. For example, consider how you would finish the following statements: 
-  * Interest: The aspects of Panga that are most likely to be of interest to [Name] are.... 
+  * Interest: The aspects of Panga that are most likely to be of interest to [Name] are.... (e.g., Campfire, Stewarding, Infastructure, forming basic-need collectives, etc.,)
   * Alignment: The Panga values and theories of change I think are most likely to resonate with [Name] are....
   * Context: The existing context [Name] has for the shared foundation we are currently building-on within Panga include...  
   * Capacity: [Name's] current capacity to contribute to Panga is likely to be.... 
