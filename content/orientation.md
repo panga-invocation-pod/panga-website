@@ -1,7 +1,8 @@
 ---
 title: "Participating in Panga"
-description: "Panga is a project to support experimental approaches to housing that collectively meet our daily needs of food, care, shelter, energy, transport, and safety."
+description: "Panga is a project to support experimental approaches to housing that collectively meet our basic needs of food, care, shelter, energy, transport, and safety."
 draft: true
+
 ---
 
 ## Panga Context
@@ -13,6 +14,8 @@ As part of the invocation process, we created a [Panga Context-Setting Workshop]
 
 With this shared foundation, we hope to develop various Panga processes and tools that will help us all to self-organise into multiple overlapping small-groups who can practice collectivising basic needs such as food, care, shelter, energy, transport, and safety. 
 
+---
+
 ## Panga Values
 The values we hope to embody through Panga's approach to cultivating more collective practices are: 
 
@@ -23,12 +26,13 @@ The values we hope to embody through Panga's approach to cultivating more collec
 
 These values reflect our theories of change: 
 
-  * Resilience through Collectivism: in the coming years and decades, local resilience will have real, on-the-ground benefits to people’s lives as we deal with the increasing effects of climate change. We believe that if we can experiment with multiple pluralistic collectives to manage basic resources this may contribute to greater local resilience by providing opportunities to practice the relational skills that will help us adapt to the impacts of climate change. Our interest in this theory of change reflects our values of remaining **grounded** in our local contexts and of cultivating resilience skills such as the web of **interdependent** trust-based relationships that have been repeatedly shown to underpin the sustainability of collective practices
+  * Resilience through Collectivism: in the coming years and decades, local resilience will have real, on-the-ground benefits to people’s lives as we deal with the increasing effects of climate change. We believe that if we can experiment with multiple pluralistic collectives to manage basic resources this may contribute to greater local resilience by providing opportunities to practice the relational skills that will help us adapt to climate-change driven disruptions to the current supply of basic needs (such as food, energy, and shelter) via private and/or public systems. Our interest in this theory of change reflects our values of remaining **grounded** in our local contexts and of cultivating resilience skills such as the web of **interdependent** trust-based relationships that have been repeatedly shown to underpin the sustainability of collective practices
 
   * Think globally, act locally: if we support an increase in the number of experimental ways of living more collectively in a particular area will have a noticeable impact on the Overton Window by modelling alternatives to the status quo and amplifying, and being amplified by, collective practices across the globe. These beliefs reflects our appreciation that the local and global are **interdependent** and our value for remaining **grounded** by our ability to impact our local conditions,  while cultivating a **pluralistic** appreciation for alternative strategies emerging within different conditions 
 
   * Prefiguring Better Futures: if we experiment with collectively meeting the basic needs within our local areas, we can  explore multiple here-and-now implementations of our desired potential futures by supporting each other to explore diverse approaches to collectively governing commmon resources. This notion draws on the concept of 'Prefigurative Politics' - actions that contribute to political change through ‘the deliberate experimental implementation of desired future social relations and practices in the here-and-now’ (Boggs, 1977). While the term 'prefigurative politics' emerged from a particular set of activist and academic contexts, the Commons Library article [Prefigurative Politics in Practice](https://commonslibrary.org/prefigurative-politics-in-practice/) outlines how this concept has long been an important features of grassroots organising. This theory of change reflects our value in cultivating **pluralistic** visions of what potential better futures could be, and the value we place on the potential for **prefigurative** practices to contribute, along with other forms of activism, to us collectively reaching towards ever better yet-to-be-determined futures.  
   
+---
 
 ## Participating in Panga
 For those who choose to become collaborators in future iterations of the Panga vision, we have seeded several participation avenues as a starting point:
@@ -39,5 +43,3 @@ For those who choose to become collaborators in future iterations of the Panga v
   * Contributing to those collectives stewarding the Panga vision and infrastructure - see [Panga Collectives](/panga-concepts/participating_in_panga/panga_collectives.md)
   * Support new people to participate by following a transparent [invitation process](/invitations.md). 
 
-
-<p>{{% paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="https://images.unsplash.com/photo-1490604001847-b712b0c2f967?w=1296" width="100%" %}}</p>
