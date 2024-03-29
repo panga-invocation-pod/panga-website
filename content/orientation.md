@@ -35,9 +35,11 @@ These values reflect our theories of change:
 ---
 
 ## Participating in Panga
-Panga is a project with multiple avenues for participation, from full participation of contributing to the decision-making process of stewarding future iterations of Panga, all the way to intermittent participation in 'campfire' conversations. 
+Panga is a project with multiple avenues for participation that, together, cultivate a focal point we can gather around to share high-context resources for exploring different approaches to collectivising basic needs. 
 
-So far, this includes: 
+Panga is intended to be maintained by a porous group of participants who collaborate in shaping our collective future, rather than a network or organisation you can join and claim 'membership' rights. For example, we expect a slowly changing group of participants to contribute as and when they have capacity, with existing participants only inviting new participants to contribute when have the capacity to support them in taking responsibility for creating and maintaining respectful, interdependent relationships and supporting multiple approaches to collective practices.
+
+An important aspect of this porous group of Panga participants is the multiple avenues of participation we hope to cultivate. So far, this includes: 
 
   * Recharging with cozy hopepunk conversations at the [Panga Campfire](/campfire/) and amplifying global examples of collective practices that we can learn from in our local contexts.
   * Nourishing our interdependent relationships, including by attending and hosting [Panga Gatherings](panga-concepts/participating_in_panga/panga_gatherings.md) and participating in [Panga Pods](panga-concepts/participating_in_panga/panga_pods.md) to explore the potential areas for experimenting with collectivising specific sets of basic needs.
